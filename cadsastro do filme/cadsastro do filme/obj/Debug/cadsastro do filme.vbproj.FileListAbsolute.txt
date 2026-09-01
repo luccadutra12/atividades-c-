@@ -1,0 +1,4 @@
+C:\Users\42790547890\source\repos\cadsastro do filme\cadsastro do filme\obj\Debug\cadsastro do filme.vbproj.AssemblyReference.cache
+C:\Users\42790547890\source\repos\cadsastro do filme\cadsastro do filme\obj\Debug\cadsastro_do_filme.Resources.resources
+C:\Users\42790547890\source\repos\cadsastro do filme\cadsastro do filme\obj\Debug\cadsastro do filme.vbproj.GenerateResource.cache
+C:\Users\42790547890\source\repos\cadsastro do filme\cadsastro do filme\obj\Debug\cadsastro do filme.vbproj.CoreCompileInputs.cache
