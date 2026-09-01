@@ -1,0 +1,7 @@
+C:\Users\42790547890\source\repos\cadastro de livro\cadastro de livro\bin\Debug\cadastro de livro.exe.config
+C:\Users\42790547890\source\repos\cadastro de livro\cadastro de livro\bin\Debug\cadastro de livro.exe
+C:\Users\42790547890\source\repos\cadastro de livro\cadastro de livro\bin\Debug\cadastro de livro.pdb
+C:\Users\42790547890\source\repos\cadastro de livro\cadastro de livro\obj\Debug\cadastro de livro.csproj.AssemblyReference.cache
+C:\Users\42790547890\source\repos\cadastro de livro\cadastro de livro\obj\Debug\cadastro de livro.csproj.CoreCompileInputs.cache
+C:\Users\42790547890\source\repos\cadastro de livro\cadastro de livro\obj\Debug\cadastro de livro.exe
+C:\Users\42790547890\source\repos\cadastro de livro\cadastro de livro\obj\Debug\cadastro de livro.pdb
